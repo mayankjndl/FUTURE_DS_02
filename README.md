@@ -45,6 +45,16 @@ The Power BI dashboard includes:
 
 ---
 
+## 📷 Dashboard Preview
+
+### 🔹 Overall Campaign Performance Dashboard
+<img width="1449" height="813" alt="Dashboard page 1" src="https://github.com/user-attachments/assets/f653983d-4df4-4b35-89e7-6a9b5351e34a" />
+
+<img width="1452" height="813" alt="Dashboard page 2" src="https://github.com/user-attachments/assets/0a5790ac-e001-4340-bb57-5060c75fb9ea" />
+
+
+---
+
 ## 🧠 Key Insights
 
 - High click volume does not always translate into higher profitability  
